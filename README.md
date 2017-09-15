@@ -1,2 +1,2 @@
 # HealthKitExtensions
-Extensions for apple HealthKit compatible for Swift 4 
+String extensions for apple HealthKit compatible for Swift 4 
